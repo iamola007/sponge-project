@@ -1,0 +1,42 @@
+body {
+    background-color: #E5E5E5;
+}
+
+@media (min-width: 1200px) {
+    #carousel-img1 {
+        margin-top: -20rem;
+    }
+    #carousel-img2 {
+        margin-top: -20rem;
+    }
+    #carousel-img3 {
+        margin-top: -20rem;
+    }
+    #carousel-img4 {
+        margin-top: -17rem;
+    }
+    #carousel-img5 {
+        margin-top: -20rem;
+    }
+    #carousel-img6 {
+        margin-top: -20rem;
+    }
+    #carousel-img7 {
+        margin-top: -24rem;
+    }
+    #carousel-img8 {
+        margin-top: -20rem;
+    }
+    #carousel-img9 {
+        margin-top: -20rem;
+    }
+    #carousel-img2 {
+        margin-top: -20rem;
+    }
+    #about {
+        margin-left: 5rem;
+        margin-right: 5rem;
+        margin-top: 2rem;
+        
+    }
+}
